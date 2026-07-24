@@ -5,7 +5,7 @@ pubDate: 2026-07-24
 author: 'ZAH'
 ---
 
-Strikin’ Sixties was created as part of a digital history project during the author’s undergraduate studies in History, at the University of Leicester. It is intended not just to be an academic exercise, but a long-term public resource that can raise awareness of significant events that have been neglected, and be used to learn about our own working-class history.
+*Strikin’ Sixties* was created as part of a digital history project during the author’s undergraduate studies in History, at the University of Leicester. It is intended not just to be an academic exercise, but a long-term public resource that can raise awareness of significant events that have been neglected, and be used to learn about our own working-class history.
 If you have any corrections, contributions, or just thoughts, please don’t be shy to contact the author at zhawker.aca@gmail.com.
 
 ## Viewpoint

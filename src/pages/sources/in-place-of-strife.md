@@ -1,5 +1,5 @@
 ---
-layout: ../components/UCLayout.astro
+layout: /src/components/UCLayout.astro
 title: "In Place of Strife"
 pubDate: 2026-07-24
 author: 'ZAH'

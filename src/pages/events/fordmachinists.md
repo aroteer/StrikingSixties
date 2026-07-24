@@ -1,5 +1,5 @@
 ---
-layout: ../components/Layout.astro
+layout: /src/components/Layout.astro
 title: "1968: Ford Sewing Machinists' strike"
 pubDate: 2026-07-17
 author: 'ZAH'
