@@ -6,6 +6,7 @@ layout: /src/components/UCLayout.astro
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KrTckIhrCiI?si=7I1i9SacxxyVjn0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>[Credit: A film by John Cowley and Danny Nissim for <a href="https://camnt.info">Camden New Town History Project</a>.]
 
 ## Further reading
 - British Pathé, *Eviction Battle On (1960)*, YouTube, <https://youtu.be/QarNWW9rXCE>.
