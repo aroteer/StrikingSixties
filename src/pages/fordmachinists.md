@@ -1,12 +1,11 @@
 ---
+layout: ../components/Layout.astro
 title: "1968: Ford Sewing Machinists' strike"
 pubDate: 2026-07-17
 author: 'ZAH'
 ---
 
-# 1968: Ford Sewing Machinists' strike
-
-On 7 June 1968, 187 sewing machinists – all of them women – walked out of the Ford Motor Company’s flagship plant in Dagenham, Essex, where they produced seats for the thousands of cars it produced every year. Less than two weeks later, they were joined by their fellow sewing machinists at the Ford Halewood plant on the other side of the country, doubling their numbers and incapacitating the Ford supply chain.
+On 7 June 1968, 187 sewing machinists – all of them women – walked out of the Ford Motor Company’s flagship plant in Dagenham, Essex. Less than two weeks later, they were joined by their fellow sewing machinists at the Ford Halewood plant on the other side of the country, doubling their numbers. Without the chairs they sewed, none of the thousands of cars that usually left the plants every month could leave the plant. 
 
 They had taken the decision to strike after discovering that they had been classed as Category B (unskilled) in the new pay-grading system, which had been agreed by management and unions nine months before. This meant a 15% pay difference from their colleagues in Category C, and flew in the face of the machinists’ understanding of the skilled handiwork required for their job. They immediately understood that the company was attempting to underpay them based on their gender:
 
@@ -62,15 +61,15 @@ Despite the painful cost of the women's pay rise, no-one gives better testimony 
 
 What is remarkable in the Ford strike is the sheer determination, militancy, and self-initiative shown by the machinists, for many of whom this was their first ever strike (although they may have had experience supporting their male relatives). As Cohen eloquently portrays, the events were “rooted in… an… era of raw confrontation, workplace unionism described, even by shop stewards, as ‘jungle warfare’” (if it can even be called ‘unionism’, given that the unions had little role except to unsuccessfully urge the women back to work). From their first one-day strike, declared with no heed to the authority of the union convenors or shop stewards, to the final attempts of Castle to bribe the women to return to work to which Rosie Boland responded “That will be up to the girls whether they go back or not. I’d have to ask them first”, the rank-and-file sewing machinists exercised assertive democratic control over their own strike.
 
-Until the last moment. As soon as the strikers put their faith in the government – a Labour government, no less, with a female Secretary of State for Employment – and left the initiative to the industrial tribunal, their strength was lost. This makes for a clear parallel to the [St Pancras Rent Strike](../stpancras/) on the other side of the decade.
+Until the last moment. As soon as the strikers put their faith in the government – a Labour government, no less, with a female Secretary of State for Employment – and left the initiative to the industrial tribunal, their strength was lost. This makes for a clear parallel to the [St Pancras Rent Strike](./stpancras/) on the other side of the decade.
 
 It must be said that the ease of the authorities in bending the workers with clever tactics, despite their often sharp instincts (rejecting offers of negotiation in exchange for going back to work, scheduling a regular meeting after their one-day strike, etc) was helped by the strikers’ own underdeveloped political idea of what they did want, beyond being recognised as skilled workers, ‘equal pay’, and the basic class instinct that their fight involved ‘every industry’. It belongs to a category of strikes common at the time, which combined immense militancy with an outlook that did not go beyond winning immediate material improvements for a single sector (‘money militancy’). Although the sewing machinists won the admiration of their male colleagues, they could not hope to expand the scope of the strike – for instance, to dismantle the grading system entirely (a fight for which they appear to have understood their strike within) – without their active involvement. Closely related to their lack of experience, a more developed doctrine would've allowed them to look further and recognise Castle, the unions, and the court of inquiry for what they were. If the sewing machinists would not “politically enlarge” their strike, someone else would do it for them.
 
 ## Further reading
 - Beynon, Huw, *Working for Ford* (Harmondsworth, 1973), <https://archive.org/details/workingforford0000beyn/>.
 - Cohen, Sheila, ‘Equal pay – or what? Economics, politics and the 1968 Ford sewing machinists’ strike’, *Labor History*, vol. 53, no. 1 (2012).
-- Friedman, Henry and Sander Meredeen, *The Dynamics of Industrial Conflict: Lessons from Ford* (Routledge, 1980). [Note: Friedman was the union convenor for Ford Dagenham at the time, and Meredeen the manager responsible for pay grading]
-- *Made in Dagenham* (Paramount Pictures, 2010).
+- Friedman, Henry and Sander Meredeen, The Dynamics of Industrial Conflict: Lessons from Ford (Routledge, 1980). *[Note: Friedman was the union convenor for Ford Dagenham at the time, and Meredeen the manager responsible for pay grading]*
+- Made in Dagenham (Paramount Pictures, 2010).
 - Moss, Jonathan, ‘The Ford Sewing machinists’ strike, 1968, Dagenham’, in *Women, Workplace Protest and Political Identity in England, 1968-85* (Manchester University Press, 2019).
 - National Archives, PREM 13/2412. ‘A letter by the women workers at Fords of Dagenham’, June 1968, <https://www.nationalarchives.gov.uk/explore-the-collection/stories/letter-by-the-women-workers-at-fords-of-dagenham/>.
 - Tinkotka, '50 Years of Equal Exploitation?', *leftcom.org* <https://www.leftcom.org/en/articles/2020-05-25/50-years-of-equal-exploitation>.

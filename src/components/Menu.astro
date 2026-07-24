@@ -1,0 +1,98 @@
+<style>
+    /* Navbar container */
+    /* Navbar container */
+    .navbar {
+    position:sticky;
+    top:0;
+    display: flex;
+    align-items: center;
+    background-color: #333;
+    font-family: Arial;
+    z-index: 1000;
+    }
+
+    /* Links inside the navbar */
+    .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+
+    /* The dropdown container */
+    .dropdown {
+    float: left;
+    overflow: visible;
+    }
+
+    /* Dropdown button */
+    .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+    }
+
+    /* Add a red background color to navbar links on hover */
+    .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+    }
+
+    /* Dropdown content (hidden by default) */
+    .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 999;
+    }
+
+    /* Links inside the dropdown */
+    .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    }
+
+    /* Add a grey background color to dropdown links on hover */
+    .dropdown-content a:hover {
+    background-color: #ddd;
+    }
+
+    /* Show the dropdown menu on hover */
+    .dropdown:hover .dropdown-content {
+    display: block;
+    }
+</style>
+
+<h1>Strikin' Sixties</h1>
+<h2>Class struggle in Sixties Britain</h2>
+<div class="navbar">
+	<a href="/StrikingSixties">Home</a>
+	<a href="/StrikingSixties/about">About</a>
+	<div class="dropdown">
+		<button class="dropbtn">Events ▾</button>
+		<div class="dropdown-content">
+			<a href="/StrikingSixties/fordmachinists">1968: Ford Machinists' Strike</a>
+			<a href="/StrikingSixties/stpancras">1960: St Pancras Rent Strike</a>
+            <a href="/StrikingSixties/mayday1969">May Day 1969</a>
+		</div>
+	</div>
+    <div class="dropdown">
+		<button class="dropbtn">Sources ▾</button>
+		<div class="dropdown-content">
+			<a href="/StrikingSixties/in-place-of-strife"><i>In Place of Strife</i></a>
+		</div>
+	</div>
+    <a href="/StrikingSixties/mbiblio">Bibliography</a>
+</div>
