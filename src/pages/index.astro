@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import '../styles/timeline.css';
 import Menu from '../components/Menu.astro';
 ---
 
@@ -11,186 +12,54 @@ import Menu from '../components/Menu.astro';
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
 		<title>Strikin' Sixties</title>
-		<style>
-			* {
-			box-sizing: border-box;
-			}
-
-			/* Set a background color */
-			body {
-			background-color: #474e5d;
-			font-family: Helvetica, sans-serif;
-			}
-
-			/* The actual timeline (the vertical ruler) */
-			.timeline {
-			position: relative;
-			max-width: 1200px;
-			margin: 0 auto;
-			}
-
-			/* The actual timeline (the vertical ruler) */
-			.timeline::after {
-			content: '';
-			position: absolute;
-			width: 6px;
-			background-color: white;
-			top: 0;
-			bottom: 0;
-			left: 50%;
-			margin-left: -3px;
-			}
-
-			/* Container around content */
-			.container {
-			padding: 10px 40px;
-			position: relative;
-			background-color: inherit;
-			width: 50%;
-			box-sizing: border-box;
-			}
-
-			/* Place the container to the left */
-			.left {
-			left: 0;
-			display: flex;
-			justify-content: flex-end;
-			padding-right: 24px;
-			}
-
-			/* Place the container to the right */
-			.right {
-			left: 50%;
-			display: flex;
-			justify-content: flex-start;
-			padding-left: 24px;
-			}
-
-			/* Add arrows to the left container (pointing right) */
-			.left::before {
-			content: " ";
-			height: 0;
-			position: absolute;
-			top: 22px;
-			width: 0;
-			z-index: 1;
-			right: 14px;
-			border: medium solid white;
-			border-width: 10px 0 10px 10px;
-			border-color: transparent transparent transparent white;
-			}
-
-			/* Add arrows to the right container (pointing left) */
-			.right::before {
-			content: " ";
-			height: 0;
-			position: absolute;
-			top: 22px;
-			width: 0;
-			z-index: 1;
-			left: 14px;
-			border: medium solid white;
-			border-width: 10px 10px 10px 0;
-			border-color: transparent white transparent transparent;
-			}
-
-			/* The actual content */
-			.content {
-				width: 220px;
-				max-width: 220px;
-				margin: 0;
-				box-sizing: border-box;
-				padding: 20px 30px;
-				background-color: white;
-				a {color:black}
-				position: relative;
-				border-radius: 6px;
-			}
-
-			/* Media queries - Responsive timeline on screens less than 600px wide */
-			@media screen and (max-width: 600px) {
-				/* Place the timelime to the left */
-				.timeline::after {
-					left: 31px;
-				.left,.right {
-					left: 0;
-					display: flex;
-					justify-content: flex-start;
-					padding-left: 24px;
-					padding-right: 0;
-				}
-
-				.left,.right {
-					justify-content: flex-start;
-				}
-
-				.content {
-					width: 100%;
-					max-width: 100%;
-				}
-				}
-
-				/* Full-width containers */
-				.container {
-					width: 100%;
-					padding-left: 70px;
-					padding-right: 25px;
-				}
-
-				/* Make sure that all arrows are pointing leftwards */
-				.container::before {
-					left: 60px;
-					border: medium solid white;
-					border-width: 10px 10px 10px 0;
-					border-color: transparent white transparent transparent;
-				}
-
-				/* Make all right containers behave like the left ones */
-				.right {
-					left: 0%;
-				}
-			}
-
-			/* Dropdown Content (Hidden by Default) */
-			.timelinehover {
-			position: absolute;
-			background-color: #f1f1f1;
-			min-width: 100px;
-			max-width: 300px;
-			padding: 5px;
-			box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-			z-index: 10000;
-			opacity: 0;
-			pointer-events: none;
-			transition: opacity 0.25s ease;
-			word-wrap: break-word;
-			}
-
-			/* Show the dropdown menu on hover */
-			.content:hover .timelinehover {
-				opacity: 1;
-				pointer-events: auto;
-			}
-		</style>
 	</head>
 	<body>
 		<Menu />
-		<article><h2>This website is still under construction.</h2></article>
+		<article>
+			<center>
+			<div class="whiteboxtext"><h1>Timeline</h1>
+			Hover over a card to see a summary. Click to read a topic page with further info.<br>Alternatively, you can access the pages directly via the bar at the top.
+			</div></center>
+		</article>
 
 		<div class="timeline">
 			<div class="container left">
 				<div class="content">
-					<a href="/StrikingSixties/events/stpancras"><b>1960</b> St Pancras Rent Strike</a>
+					<a href="/StrikingSixties/events/stpancras"><b>1960</b> St Pancras rent strike</a>
 					<div class="timelinehover">
-						aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+						<iframe width="450" height="313" src="https://www.youtube.com/embed/gdgpGQxsBio?start=9&controls=0&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
 			<div class="container right">
 				<div class="content">
-					<a href="/StrikingSixties/events/fordmachinists"><b>1968</b> Ford Sewing Machinists' Strike</a>
+					<a href="/StrikingSixties/events/woolfrubber"><b>1965</b> Woolf Rubber Company strike</a>
 					<div class="timelinehover">
-						<iframe width="300" height="187" src="https://www.youtube.com/embed/gdgpGQxsBio?start=9&controls=0&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+						WIP
+					</div>
+				</div>
+			</div>
+			<div class="container left">
+				<div class="content">
+					<a href="/StrikingSixties/events/fordmachinists"><b>June-July 1968</b> Ford sewing machinists' strike</a>
+					<div class="timelinehover">
+						Over 300 workers who produced car seats for the giant Ford Motor Company - all of them <a href="/StrikingSixties/themes/gender-and-race">women</a> - went on strike in Dagenham, Essex and Halewood, Merseyside. They took the decision to do so themselves, without union approval, after finding that the company had classed them as Category B - unskilled - in the new <a href="/StrikingSixties/themes/unions">union-approved</a> pay grading system. Over three weeks, negotations would be escalated all the way up to the height of <a>government</a>.<p>The strike has since been mythologised as a 'strike for equal pay' that heralded in the 1970 Equal Pay Act. However, historian Sheila Cohen argues that the strikers saw their strike as within the same pay-grading struggles as their male colleagues, and that 'equal pay' was imposed from outside as a means to neuter the strike. Indeed, thanks to clever manoeuvring from the government, the strikers never got their all-important up-grade. Was Ford really a 'strike for equal pay', or something more complicated?</p>
+					</div>
+				</div>
+			</div>
+			<div class="container right">
+				<div class="content">
+					<a href="/StrikingSixties/sources/in-place-of-strife"><b>1968</b> Publication of <i>In Place of Strife</i></a>
+					<div class="timelinehover">
+						Written by Employment Minister Barbara Castle, this white paper proposed restrictions on the right to strike in response to a massive increase in <a href="/StrikingSixties/themes/unions">'unofficial' strikes</a>. It sparked <a href="/StrikingSixties/events/mayday1969">massive protests</a> and was shelved, but many of its proposals would be implemented in the following years.<p>As a source, it can tell us a huge amount. It includes the <a href="/StrikingSixties/themes/government">government's</a> statistics of the total hours lost to official and unofficial strikes; it exemplifies the Labour government's anti-worker response to rising unrest; and the resistance its proposals triggered can be seen as the climax of the militancy that filled the decade.</p>
+					</div>
+				</div>
+			</div>
+			<div class="container right">
+				<div class="content">
+					<a href="/StrikingSixties/events/mayday1969"><b>May Day 1969</b> strikes</a>
+					<div class="timelinehover">
+						WIP
 					</div>
 				</div>
 			</div>

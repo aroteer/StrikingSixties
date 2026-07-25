@@ -1,8 +1,7 @@
 ---
 layout: /src/components/UCLayout.astro
-title: "May Day 1969"
+title: "Government"
 pubDate: 2026-07-24
 author: 'ZAH'
-categories: [Events]
+categories: [Themes]
 ---
-

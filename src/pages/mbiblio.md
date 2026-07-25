@@ -6,7 +6,7 @@ author: 'ZAH'
 bodyClass: bibliography-page
 ---
 
-This page cobmines all the sources referenced for topic pages, plus sources that helped inform the project itself. For focused reading on a given topic, check out the **Further reading** section at the bottom of its topic page.
+This page combines all the sources referenced for topic pages, plus sources that helped inform the project itself. For focused reading on a given topic, check out the **Further reading** section at the bottom of its topic page.
 
 ## St. Panras rent strike (1960)
 - British Pathé, *Eviction Battle On (1960)*, YouTube, <https://youtu.be/QarNWW9rXCE>.
@@ -23,7 +23,7 @@ This page cobmines all the sources referenced for topic pages, plus sources that
 ## Ford sewing machinists' strike (1968)
 - Beynon, Huw, *Working for Ford* (Harmondsworth, 1973), <https://archive.org/details/workingforford0000beyn/>.
 - Cohen, Sheila, ‘Equal pay – or what? Economics, politics and the 1968 Ford sewing machinists’ strike’, *Labor History*, vol. 53, no. 1 (2012).
-- Friedman, Henry and Sander Meredeen, The Dynamics of Industrial Conflict: Lessons from Ford (Routledge, 1980). *[Note: Friedman was the union convenor for Ford Dagenham at the time, and Meredeen the manager responsible for pay grading]*
+- Friedman, Henry and Sander Meredeen, *The Dynamics of Industrial Conflict: Lessons from Ford* (Routledge, 1980). *[Note: Friedman was the union convenor for Ford Dagenham at the time, and Meredeen the manager responsible for pay grading]*
 - Made in Dagenham (Paramount Pictures, 2010).
 - Moss, Jonathan, ‘The Ford Sewing machinists’ strike, 1968, Dagenham’, in *Women, Workplace Protest and Political Identity in England, 1968-85* (Manchester University Press, 2019).
 - National Archives, PREM 13/2412. ‘A letter by the women workers at Fords of Dagenham’, June 1968, <https://www.nationalarchives.gov.uk/explore-the-collection/stories/letter-by-the-women-workers-at-fords-of-dagenham/>.
@@ -31,10 +31,10 @@ This page cobmines all the sources referenced for topic pages, plus sources that
 - Trades Unions Congress, ‘How Ford’s striking women drove the Equal Pay Act’, *Case studies*, <https://www.tuc.org.uk/workplace-guidance/case-studies/how-fords-striking-women-drove-equal-pay-act>.
 
 ## May Day 1969
+- Barbara Castle, ‘In Place of Strife’, Cmmd 3888 (1969).
+- British Pathé, *Strikes Aka Strike On May Day (1969)*, YouTube, 13 April 2014, <https://youtu.be/4tOlBvsStgA>.
 - *Solidarity*, vol. 5, no. 10 (1969), <https://files.libcom.org/files/solidarity-vol5-n10.pdf>.
 https://senatehouseoccupation.wordpress.com/reflections-and-recollections/the-may-day-manifesto/.
-- Barbara Castle, ‘In Place of Strife’, Cmmd 3888 (1969).
-- British Pathé, *Strikes Aka Strike On May Day (1969)*, YouTube, 13 April 2014, <https://youtu.be/4tOlBvsStgA?si=FIEV4E5jmvqf45nL>.
 
 ## Methodology
-- Sayer, Faye , *Public History: A Practical Guide* (Bloomsbury Publishing Plc, 2015), pp. 118-
+- Sayer, Faye , *Public History: A Practical Guide* (Bloomsbury Publishing Plc, 2015).

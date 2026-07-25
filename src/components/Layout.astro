@@ -3,6 +3,9 @@ import '../styles/global.css';
 import Menu from '../components/Menu.astro';
 const { frontmatter } = Astro.props;
 const title = frontmatter.title;
+const categories = Array.isArray(frontmatter.categories)
+  ? frontmatter.categories.join(', ')
+  : frontmatter.categories;
 ---
 <html>
     <head>
@@ -12,7 +15,8 @@ const title = frontmatter.title;
     <body>
         <Menu />
         <article>
-            <h1>{title}</h1>
+            <br><div class="tpheader"><h3>{categories}</h3>
+            <h1>{title}</h1></div><br>
             <slot />
         </article>
     </body>

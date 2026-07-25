@@ -3,6 +3,7 @@ layout: /src/components/Layout.astro
 title: "1968: Ford Sewing Machinists' strike"
 pubDate: 2026-07-17
 author: 'ZAH'
+categories: [Events]
 ---
 
 On 7 June 1968, 187 sewing machinists – all of them women – walked out of the Ford Motor Company’s flagship plant in Dagenham, Essex. Less than two weeks later, they were joined by their fellow sewing machinists at the Ford Halewood plant on the other side of the country, doubling their numbers. Without the chairs they sewed, none of the thousands of cars that usually left the plants every month could leave the plant. 
@@ -68,7 +69,7 @@ It must be said that the ease of the authorities in bending the workers with cle
 ## Further reading
 - Beynon, Huw, *Working for Ford* (Harmondsworth, 1973), <https://archive.org/details/workingforford0000beyn/>.
 - Cohen, Sheila, ‘Equal pay – or what? Economics, politics and the 1968 Ford sewing machinists’ strike’, *Labor History*, vol. 53, no. 1 (2012).
-- Friedman, Henry and Sander Meredeen, The Dynamics of Industrial Conflict: Lessons from Ford (Routledge, 1980). *[Note: Friedman was the union convenor for Ford Dagenham at the time, and Meredeen the manager responsible for pay grading]*
+- Friedman, Henry and Sander Meredeen, *The Dynamics of Industrial Conflict: Lessons from Ford* (Routledge, 1980). *[Note: Friedman was the union convenor for Ford Dagenham at the time, and Meredeen the manager responsible for pay grading]*
 - Made in Dagenham (Paramount Pictures, 2010).
 - Moss, Jonathan, ‘The Ford Sewing machinists’ strike, 1968, Dagenham’, in *Women, Workplace Protest and Political Identity in England, 1968-85* (Manchester University Press, 2019).
 - National Archives, PREM 13/2412. ‘A letter by the women workers at Fords of Dagenham’, June 1968, <https://www.nationalarchives.gov.uk/explore-the-collection/stories/letter-by-the-women-workers-at-fords-of-dagenham/>.

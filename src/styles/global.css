@@ -29,3 +29,24 @@ h1 {
 a {
   text-decoration: none;
 }
+
+.whiteboxtext {
+  color:black;
+  background-color:#ffffff;
+  max-width: fit-content;
+  max-height: fit-content;
+  border-radius: 6px;
+  padding: 10px;
+  padding-top: 7px;
+  h1 {margin: 0;}
+}
+
+.tpheader h1 {
+  margin: 0;
+  line-height: 1;
+}
+.tpheader h3 {
+  margin: 1rem 0;
+  line-height: 0;
+  color: #505050;
+}
