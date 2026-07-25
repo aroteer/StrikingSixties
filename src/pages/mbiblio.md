@@ -37,4 +37,7 @@ This page combines all the sources referenced for topic pages, plus sources that
 https://senatehouseoccupation.wordpress.com/reflections-and-recollections/the-may-day-manifesto/.
 
 ## Methodology
+- Crymble, Adam, *Technology and the Historian: Transformations in the Digital Age* (University of Illinois Press, 2021).
+- Rosenzweig, Roy and Anthony Grafton, *Clio Wired: The Future of the Past in the Digital Age* (Columbia University Press, 2011).
 - Sayer, Faye , *Public History: A Practical Guide* (Bloomsbury Publishing Plc, 2015).
+- Seventeen Moments in Soviet History, <https://soviethistory.msu.edu/>. *[This excellent resource served as an inspiration for the website structure.]*
