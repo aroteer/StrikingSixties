@@ -6,6 +6,10 @@ author: 'ZAH'
 categories: [Themes]
 ---
 
+When this page is complete, it will display a full summary of the role and nature of trade unions in the period. For now, you can read this work-in-progress draft, or return to the [homepage](/StrikingSixties).
+
+---
+
 During the 1960s, the trade unions and their federation - the Trades Unions Congress (TUC) - continued their close relationship with the government from previous decades. In this period, they were more powerful than ever - but how did that translate to the workers they claimed to represent?
 
 Union representatives could also be found on official bodies alongside representatives of employers and/or the government, helping the production process run smoothly: from day-to-day workforce management like the many committees at [Ford Dagenham](/StrikingSixties/events/fordmachinists); to national-level coordination of entire industries like the National Coal Board; all the way up to bodies guiding the entire economy like the National Economic Development Council.
@@ -14,6 +18,6 @@ The clearest way to see this situation is to read the official government statis
 
 Nonetheless, striking workers tended to identify with the unions they were members of, even when actively going against the best efforts of their officials. For example, in the footage of the [May Day 1969 strikes](/StrikingSixties/events/mayday1969), which were almost certainly unofficial and took the form of a mass strike across industries and unions, strikers can be seen marching with their union branch banners. Unofficial strikes also tended to still follow union lines, limited to one workplace, company, or industry: May Day '69 was exceptional in this regard.
 
-Where established unions refused to get involved in unrest - particularly with Black workers - new organisations sometimes attempted to take up their role, such as the [Indian Workers' Association](/StrikingSixties/events/woolfrubber).
+In workplaces with a limited presence of the established unions - especially Black and Asian workers - new organisations sometimes stepped in, such as the [Indian Workers' Association](/StrikingSixties/events/woolfrubber).
 
 ## Further reading

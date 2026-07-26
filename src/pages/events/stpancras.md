@@ -6,7 +6,9 @@ layout: /src/components/UCLayout.astro
 categories: [Events]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KrTckIhrCiI?si=7I1i9SacxxyVjn0n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+When this page is complete, it will display a shortened account of the rent strike that involved most of the residents in the London borough of St Pancras, after the new Conservative council attempted to introduce a new means-tested rent system. For now, you can watch this video of firsthand testimonies collected by the Camden New Town History Project, or read the [long 1972 account by Dave Burn and Hugh Kerr](https://libcom.org/article/rent-strike-st-pancras-1960).<br><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KrTckIhrCiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>[Credit: A film by John Cowley and Danny Nissim for <a href="https://camnt.info">Camden New Town History Project</a>.]
 
 ## Further reading
